@@ -53,8 +53,10 @@ div table{
 }
 div table img {
     float: left;
-    
-   
+}
+
+div  img.item {
+    width: 200px;
 }
 
 div table tr th{
