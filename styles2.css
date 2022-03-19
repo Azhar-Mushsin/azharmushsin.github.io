@@ -51,6 +51,11 @@ div table{
     margin: 5%;
 }
 
-div table td img{
-    
+div table tr th{
+    color: tomato;
+}
+
+div table tr td {
+    padding-left: 5%;
+    color: tomato;
 }
