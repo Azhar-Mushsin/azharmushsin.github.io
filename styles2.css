@@ -51,6 +51,10 @@ div table{
     margin: 20px;
     font-size: 40px;
 }
+div table img {
+    float: left;
+   
+}
 
 div table tr th{
     font-size: 40px;
