@@ -1,0 +1,48 @@
+/* import fonts */
+@import url('https://stockfont.org/?8efe42052f023c28a9c89a1b8ef9d74e1bb608b4eec1a5e8bf77bac50aa42f77');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Oxygen-Regular', verdana, sans-serif;
+}
+
+body {
+    margin: 2px;
+    background-color: white;
+    border-style: groove;
+    border-color: black;
+
+}
+
+header {
+    background-color: #D6C4B0;
+    color: white;
+
+    height: 200px;
+
+}
+
+h1{
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+}
+
+div{
+    margin: 10px;
+}
+
+div h3 {
+    text-align: center;
+    font-size:20px;
+    color: tomato;
+    
+}
+
+div table td img{
+    
+}
